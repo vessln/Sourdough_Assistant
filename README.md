@@ -17,5 +17,33 @@ A simple and minimalistic **AI chatbot assistant** built with **Streamlit** that
 - 🌿 Custom prompt trained to behave like a sourdough expert.
 - 🛠️ Fully open-source and easily extendable.
 
+---
 
+## 📁 Project Structure
+
+#### sourdough_chat
+
+├── app/
+
+──├── app.py        # Streamlit UI
+
+──├── chat.py       # Hugging Face API logic
+
+──├── prompts.py    # Sourdough expert prompts
+
+├── .env          
+
+├── .gitignore 
+
+├── README.md 
+
+└── requirements.txt 
+
+---
+
+## 🔐 Environment Variables
+
+Create a .env file with your Hugging Face API token. You can generate one at: https://huggingface.co/settings/tokens
+
+HF_API_TOKEN = your_token
 
