@@ -1,11 +1,14 @@
-# 🥖 Sourdough Chatbot
+# Sourdough Chatbot
 
-A simple and minimalistic **AI chatbot assistant** built with **Streamlit** that helps you bake better sourdough using the power of HF open-source **LLMs**.
+A simple and minimalistic **AI chatbot** for sourdough baking. It is built with **Streamlit** that helps you bake better sourdough using the power of HF open-source **LLMs**.
 
 > Ask questions like:
 > - “I have 150g of discard. Give me a sweet recipe.”
 > - “Why does my starter smell acidic?”
 > - “What’s the best hydration level for ciabatta?”
+
+## Demo:
+<img src="https://github.com/user-attachments/assets/b6a0c8b0-e8f2-447a-8f14-dcca037cf285" alt="demo" width="500" height="600">
 
 ---
 
