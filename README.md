@@ -26,21 +26,27 @@ A simple and minimalistic **AI chatbot** specialized in the field of sourdough b
 
 #### sourdough_chat
 
+
+├── prompts/
+
+│   └── template.jinja       # Jinja2 template for system prompt
+
 ├── app/
 
-──├── app.py        # Streamlit UI
+│   ├── prompts.py           # Load and render Jinja2 templates
 
-──├── chat.py       # Hugging Face API logic
+│   ├── chat.py              # Memory + LLM query logic
 
-──├── prompts.py    # Sourdough expert prompts
+│   └── app.py               # Streamlit UI (chat interface)
 
-├── .env          
+├── .env                     # Environment variables (API tokens, params)
 
-├── .gitignore 
+├── .gitignore
 
-├── README.md 
+├── README.md
 
-└── requirements.txt 
+└── requirements.txt         # Dependencies
+                    
 
 ---
 
