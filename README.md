@@ -14,10 +14,10 @@ A simple and minimalistic **AI chatbot** specialized in the field of sourdough b
 
 ## 🚀 Features
 
-- 🔥 Powered by [Hugging Face](https://huggingface.co/) models (Zephyr 7B)
-- 💬 Real-time chat interface via [Streamlit](https://streamlit.io/).
-- 🤖 Context-aware responses with memory (FAISS + embeddings)
-- 🌿 Custom Jinja2 prompt templates for maintainable prompt logic
+- Powered by [Hugging Face](https://huggingface.co/) models (Zephyr 7B)
+- Real-time chat interface via [Streamlit](https://streamlit.io/).
+- Context-aware responses with memory (FAISS + embeddings)
+- Custom Jinja2 prompt templates for maintainable prompt logic
 
 ---
 
