@@ -1,6 +1,6 @@
 # Sourdough Chatbot
 
-A simple and minimalistic **AI chatbot** specialized in the field of sourdough bakes. It is built with **Streamlit** that helps you bake better sourdough using the power of HF open-source **LLMs**.
+A simple and minimalistic **AI chatbot** specialized in the field of sourdough bakes. It is built with **Streamlit** that helps you bake better sourdough using the power of Hugging face open-source **LLMs**.
 
 > Ask questions like:
 > - “I have 150g of discard. Give me a sweet recipe.”
