@@ -38,7 +38,7 @@ A simple and minimalistic **AI chatbot** specialized in the field of sourdough b
 
 │   └── app.py               # Streamlit UI (chat interface)
 
-├── .env                     # Environment variables (API tokens, params)
+├── .env                     # Environment variables (API tokens)
 
 ├── .gitignore
 
